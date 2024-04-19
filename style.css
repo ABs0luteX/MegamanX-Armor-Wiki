@@ -1,0 +1,47 @@
+body {
+background-image: url(Background/XBg.GIF);
+background-repeat: repeat;
+}
+
+.mega{
+   width: 300px; 
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.tit{
+    width: 280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.s{
+   float: left;
+   height: 282px;
+   width: 181px;
+   border: 20px solid red;
+   border-image-source: url(Background/HeaderBG.GIF);
+   border-image-slice: 20;
+   border-image-repeat: repeat;
+
+}
+.s1{
+   float: left;
+   height: 282px;
+   width: 181px;
+}
+.s2{
+   float: left;
+   height: 282px;
+   width: 181px;
+}
+.s3{
+   float: left;
+   height: 282px;
+   width: 181px;
+}
+.s4{
+   float: left;
+   height: 282px;
+   width: 181px;
+}
